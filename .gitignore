@@ -1,0 +1,6 @@
+firmware.eep
+firmware.elf
+firmware.hex
+firmware.map
+*.o
+*.o.dep
